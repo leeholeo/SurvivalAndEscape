@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d84d872b5d9ae4084c30d12141d914, type: 3}
+  m_Name: WindowObject
+  m_EditorClassIdentifier: 
+  amendObject: {fileID: 11400000, guid: c501534be8da26a4ab9583ede1354e9c, type: 2}
+  type: 4
+  description: 
+  playerObject: {fileID: 0}
+  savePath: C:/Users/family/AppData/LocalLow/DefaultCompany/ssafy_proj/WindowObject.save
+  isAmended: 0
+  furnitureToken:
+    isAmended: 0

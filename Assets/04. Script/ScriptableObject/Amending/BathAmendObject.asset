@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebdbbde833771cf4a88c9cb57d54b297, type: 3}
+  m_Name: BathAmendObject
+  m_EditorClassIdentifier: 
+  itemDataBaseObject: {fileID: 11400000, guid: 4fef621851771c146a4b805e8004f25c, type: 2}
+  itemDetailPrefab: {fileID: 8055077861388474092, guid: 9f18ad483d9f3ca4a99387dde20d93a6, type: 3}
+  requiredItemArray:
+  - MaxStackSize: 1
+    Name: "\uD30C\uC774\uD504"
+    Id: 12
+    states: []
+  requiredItemNumArray: 02000000
+  itemArrayLength: 1
+  Y_START: 225
+  Y_OFFSET: -150
+  MENTAL_PLUS: 30
+  playerInventory: {fileID: 11400000, guid: c15163ea183f04e47b3637f93728c3cb, type: 2}
+  amendItemPanel: {fileID: 0}
+  amendButton: {fileID: 0}
+  requiredItemDetailPanelArray:
+  - {fileID: 0}
+  currentItemNumArray: 00000000
+  isSufficientArray: 00
+  isSufficient: 0

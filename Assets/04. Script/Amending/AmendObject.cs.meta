@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebdbbde833771cf4a88c9cb57d54b297
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemDataBaseObject: {fileID: 11400000, guid: 11d464adc96e2d14abf440834d72b31c, type: 2}
+  - amendItemPanel: {instanceID: 0}
+  - amendButton: {instanceID: 0}
+  - requiredItemDetailPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

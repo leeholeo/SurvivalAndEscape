@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 788fdcf75c1461543aa45697e4ff85d9, type: 3}
+  m_Name: BedObject
+  m_EditorClassIdentifier: 
+  amendObject: {fileID: 11400000, guid: 12e6b52f8e5ae1c4c8c7912d38b19da0, type: 2}
+  type: 0
+  description: 
+  conditionController: {fileID: 0}
+  endOfTheDay: {fileID: 0}
+  savePath: C:/Users/family/AppData/LocalLow/DefaultCompany/ssafy_proj/BedObject.save
+  isAmended: 0
+  furnitureToken:
+    isAmended: 0
